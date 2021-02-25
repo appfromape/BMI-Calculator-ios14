@@ -48,7 +48,6 @@ class ViewController: UIViewController {
             dtVC.advice = calculatorBrain.getAdvice()
             dtVC.color = calculatorBrain.getColor()
             
-            
         }
         
     }
